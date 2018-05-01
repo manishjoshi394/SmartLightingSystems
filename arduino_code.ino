@@ -13,8 +13,8 @@
  *      GND: GND
  */
  
-int trigPin1 = 10;    //Trig - Red Jumper
-int echoPin1 = 11;    //Echo - Orange Jumper
+int trigPin1 = 10;    
+int echoPin1 = 11;    
 
 int trigPin2 = 12;
 int echoPin2 = 13;
